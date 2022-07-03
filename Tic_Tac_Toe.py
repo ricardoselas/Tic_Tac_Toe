@@ -1,6 +1,6 @@
 '''
 Tic-Tac-Toe: A Solution
-Author: Bro. Manley, with minor modifications and comments from Ricardo
+Author: Ricardo
 '''
 
 #The def was used to define functions, in sequence of commands. While not was used because we know how many times the statement block needs to be repeated.
